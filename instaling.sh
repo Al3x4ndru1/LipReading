@@ -14,3 +14,4 @@ source venv/bin/activate
 python3 -m pip install --upgrade pip
 sudo apt update -y
 sudo apt upgrade -y
+python3 -m pip install -r requirements.txt
